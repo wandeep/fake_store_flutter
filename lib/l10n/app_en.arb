@@ -1,0 +1,58 @@
+{
+    "app_title": "Fake Shop",
+    "@app_title": {
+      "description": "Title for the app"
+    },
+    "login_title": "Fake Shop Login",
+    "@login_title": {
+      "description": "Title for login screen"
+    },
+    "login_username": "Username",
+    "@login_username": {
+      "description": "Username field on login screen"
+    },
+    "login_username_hint": "Username",
+    "@login_username_hint": {
+      "description": "Username hint on login screen"
+    },
+    "login_username_validation": "Please enter valid username",
+    "@login_username_validation": {
+      "description": "Username validation message on login screen"
+    },
+    "login_password": "Password",
+    "@login_password": {
+      "description": "Password field on login screen"
+    },
+    "login_password_hint": "Password",
+    "@login_password_hint": {
+      "description": "Password hint on login screen"
+    },
+    "login_password_validation": "Please enter valid password",
+    "@login_password_validation": {
+      "description": "Password validation message on login screen"
+    },
+    "login_failed": "Login failed! Please check credentials and try again",
+    "@login_failed": {
+      "description": "Login failed message"
+    },
+    "login_button_title": "Login",
+    "@login_button_title": {
+      "description": "Title for login button"
+    },
+    "login_in_progress": "Logging in...",
+    "@login_in_progress": {
+      "description": "Login in progress message"
+    },
+    "categories_title": "Categories",
+    "@categories_title": {
+      "description": "Title for categories screen"
+    },
+    "add_cart_button_title": "Add to Cart",
+    "@add_cart_button_title": {
+      "description": "Title for add to cart button"
+    },
+    "remove_cart_button_title": "Remove from Cart",
+    "@remove_cart_button_title": {
+      "description": "Title for remove from cart button"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "files.exclude": {
+      "**/.git": false,
+      "**/*.freezed.dart": true,
+      "**/*.g.dart": true,
+      "**/*.mocks.dart": true
+    },
+    "dart.lineLength": 120,
+}
