@@ -12,7 +12,5 @@ class ObserveCartUseCase implements StreamUseCase<int, NoParams> {
 
   @override
   Stream<Either<Failure, int>> call(NoParams params) =>
-      _cartRepository.observeCartUpdates().asyncExpand((count) async* {
-        yield Right(count);
-      });
+      _cartRepository.observeCartUpdates().map((count) => Right(count));
 }
